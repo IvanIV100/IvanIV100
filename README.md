@@ -3,7 +3,9 @@
 Hello there! 👋
 
 
-I'm Ivan Chodák, an IT student passionate about technology and always eager to learn and explore new things. This GitHub page serves as a portfolio showcasing my projects, assignments, and coding journey.
+I'm Ivan Chodák, an IT student passionate about technology and always eager to learn and explore new things. 
+
+This GitHub page serves as a portfolio showcasing my projects, assignments, and coding journey.
 
 ## About Me
 

@@ -17,8 +17,7 @@ This GitHub page serves as a portfolio showcasing my projects, assignments, and 
 
 - Programming Languages: C, Python, PHP, SQL, Bash, Latex
 - Languages: English(C1), German(A2), Slovak(Native), Czech
-- Technologies: Git, Figma, Azzure DevOps Services
-- 
+- Technologies: Git, Figma, Azure DevOps Services
 
 Feel free to explore my repositories, provide feedback, or reach out for collaboration. Let's connect and learn together! 🚀
 
